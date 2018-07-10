@@ -10,7 +10,7 @@ One of the key advantages of additive manufacturing (AM) is its digital thread, 
  ![Process-Chain.png](Process-Chain.png  "Process Chain ")
  ![Void-Dogbone.png](Void-Dogbone.png  "Void Dogbone")
 
-**Related Publication**
+**Related Publications**
 [Cyber-Physical Vulnerabilities in Additive Manufacturing Systems](http://sffsymposium.engr.utexas.edu/sites/default/files/2014-075-Sturm.pdf)
 
 [![Project Video](thumb.png)](https://vanderbilt.box.com/s/bpffxcdvgvgnc8mh52hak2qytgzqfkvi)
