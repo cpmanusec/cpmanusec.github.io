@@ -1,5 +1,4 @@
-# DREAMS
-#### Design, Research, and Education for Additive Manufacturing Systems
+# Cyber-physical Manufacturing Security
 
 ### Project Overview
 **Goal:**
