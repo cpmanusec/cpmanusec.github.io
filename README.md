@@ -11,7 +11,12 @@ One of the key advantages of additive manufacturing (AM) is its digital thread, 
 **Related Publication**
 [Cyber-Physical Vulnerabilities in Additive Manufacturing Systems](http://sffsymposium.engr.utexas.edu/sites/default/files/2014-075-Sturm.pdf)
 
+[![Project Video](thumb.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
 Investigators
-Logan Sturm
+ - Logan Sturm
+ - Jules White
+ 
 
  
